@@ -1,0 +1,7 @@
+{
+    "require": {
+        "danog/madelineproto": "^7.0"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
